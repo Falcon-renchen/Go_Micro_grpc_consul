@@ -1,0 +1,33 @@
+syntax = "proto3";
+
+//import "Services/protos/Models.proto";
+
+package Services;
+
+
+//这个因为import失败，所以直接复制Models.proto
+message ProdsModel {
+  int32 ProdID = 1;
+  string ProdName = 2;
+}
+
+message ProdsRequest {
+  //@inject_tag: json:"size", form:"size"
+  int32 size = 1;
+  //@inject_tag: uri:"pid"
+  int32 prod_id = 2;
+}
+
+message ProdListResponse {
+  repeated ProdsModel data = 1;
+}
+
+message ProdDetailResponse {
+  ProdsModel data = 1;
+}
+
+service ProdService {
+  rpc GetProdsList(ProdsRequest) returns(ProdListResponse);
+  rpc GetProdDetail(ProdsRequest) returns(ProdDetailResponse);
+}
+

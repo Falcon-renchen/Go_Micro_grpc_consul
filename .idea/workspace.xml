@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="200f7048-a648-4eba-8f71-f7bc271554b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Micro02/proto/api/api.pb.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Micro02/proto/api/api.pb.micro.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Micro02/proto/api/api.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Micro02/proto/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Micro02/proto/sum.pb.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Micro02/proto/sum.pb.micro.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Micro02/proto/sum.proto" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Micro02/proto" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../BookstoreSystem" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lwZ69Mtsv2xjSuWT6Nju3w38sp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Micro07_gorm" />
+      <recent name="$PROJECT_DIR$/Micro07_gorm/ServiceImpl" />
+      <recent name="$PROJECT_DIR$/Micro07_gorm/Services/protos" />
+      <recent name="$PROJECT_DIR$/Micro05_grpc_consul_demo/Services/protos" />
+      <recent name="$PROJECT_DIR$/Micro04_grpc_consul_demo/Services/protos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Micro05_grpc_consul_demo/router" />
+      <recent name="$PROJECT_DIR$/Micro04_Demo/handler" />
+      <recent name="$PROJECT_DIR$/Micro04_Demo/Product" />
+      <recent name="$PROJECT_DIR$/Micro03/rpc/handler" />
+      <recent name="$PROJECT_DIR$/Micro02/proto/log" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build Go_Micro/Micro05_grpc_consul_demo/handler/Product">
+    <configuration name="go build Go_Micro/Micro04_Demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_Micro" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Micro04_Demo/test.go" />
+      <package value="Go_Micro/Micro04_Demo" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Go_Micro/Micro04_Demo/handler/Product" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_Micro" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Micro04_Demo/handler/Product/prod_main.go" />
+      <package value="Go_Micro/Micro04_Demo/handler/Product" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Go_Micro/Micro05_grpc_consul_demo/handler/Product" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_Micro" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Micro05_grpc_consul_demo/handler/Product/prod_main.go" />
+      <package value="Go_Micro/Micro05_grpc_consul_demo/handler/Product" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build handlers.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_Micro" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Micro05_grpc_consul_demo/webLib/handlers.go" />
+      <package value="Go_Micro" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_Micro" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Micro05_grpc_demo/main.go" />
+      <package value="Go_Micro" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Go_Micro/Micro05_grpc_consul_demo/handler/Product" />
+        <item itemvalue="Go Build.go build handlers.go" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build Go_Micro/Micro04_Demo/handler/Product" />
+        <item itemvalue="Go Build.go build Go_Micro/Micro04_Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="964" y="217" key="#Inspections" timestamp="1608740867950">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="964" y="217" key="#Inspections/0.23.1920.1057@0.23.1920.1057" timestamp="1608740867950" />
+    <state x="429" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612932641611">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="429" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1612932641611" />
+    <state x="865" y="184" key="#com.intellij.ide.util.MemberChooser" timestamp="1613617366973">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="865" y="184" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1613617366973" />
+    <state x="1247" y="194" key="#go_build_handler.go" timestamp="1609237611575">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1247" y="194" key="#go_build_handler.go/0.23.1920.1057@0.23.1920.1057" timestamp="1609237611575" />
+    <state x="1247" y="194" key="#go_build_handler.go_(1)" timestamp="1609237708096">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1247" y="194" key="#go_build_handler.go_(1)/0.23.1920.1057@0.23.1920.1057" timestamp="1609237708096" />
+    <state x="415" y="97" key="#go_build_handlers.go" timestamp="1613701956923">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="415" y="97" key="#go_build_handlers.go/0.23.1440.877@0.23.1440.877" timestamp="1613701956923" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1613712150604">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1613712150604" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1613449885932" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1613712150603">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1613712150603" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1613449885931" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1613712150603">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1613712150603" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1613449885930" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1613712150604">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1613712150604" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1613449885931" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1613798398334">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1613798398334" />
+  </component>
+</project>
